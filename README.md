@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Abdulaziz
+
+
+
+### I'm a Frontend Developer, and student
+
+
+### 📍 Stack : HTML, CSS, Bootstrap, SCSS, javascript, React, Angular(Entry Level) Typescript
+
+
+
 
 <!--
 **Azik2499/Azik2499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
