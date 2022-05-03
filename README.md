@@ -5,7 +5,7 @@
 ### I'm a Frontend Developer, and student
 
 
-### 📍 Stack : HTML, CSS, Bootstrap, SCSS, javascript, React, Angular(Entry Level) Typescript
+### 📍 Stack : HTML, CSS, Bootstrap, SCSS, javascript, React, Angular(Entry Level) and Typescript
 
 
 
